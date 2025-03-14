@@ -21,7 +21,9 @@ export function Header() {
               <MapPin className="h-4 w-4 mr-2" />
               Rua Exemplo, 123, Cidade Exemplo
             </span>
+          
           </div>
+          <div>⚠️ Este é apenas um modelo da aplicação</div>
           <div>Seg-Sex: 8:00-17:00 | Sáb: 08:00-12:00</div>
         </div>
       </div>

@@ -208,7 +208,7 @@ export default function ProductEdition() {
       <div className="flex justify-center m-4 space-x-4">
         <button
           onClick={() => setShowModal('add')}
-          className="group relative flex items-center px-6 py-3 bg-gradient-to-r from-indigo-500 to-blue-500 text-white font-semibold rounded-md shadow-lg hover:from-indigo-600 hover:to-blue-600 transition-all"
+          className="group relative flex items-center px-6 py-3 bg-black text-white font-semibold rounded-md shadow-lg hover:from-indigo-600 hover:to-blue-600 transition-all"
         >
           <Plus className="h-6 w-6 mr-2 transition-transform group-hover:rotate-90" />
           Adicionar Produto
@@ -216,7 +216,7 @@ export default function ProductEdition() {
 
         <button
           onClick={() => setShowModal('addVariation')}
-          className="group relative flex items-center px-6 py-3 bg-gradient-to-r from-green-500 to-teal-500 text-white font-semibold rounded-md shadow-lg hover:from-green-600 hover:to-teal-600 transition-all"
+          className="group relative flex items-center px-6 py-3 bg-black to-teal-500 text-white font-semibold rounded-md shadow-lg hover:from-green-600 hover:to-teal-600 transition-all"
         >
           <Plus className="h-6 w-6 mr-2 transition-transform group-hover:rotate-90" />
           Adicionar Variação

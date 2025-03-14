@@ -129,7 +129,7 @@ export function CartPage() {
           <p className="text-sm text-gray-500">Ou 12x de R${(total() / 12).toFixed(2)}</p>
         </div>
         <Link
-          to="https://mpago.la/2T4CM4L"
+          to="/checkout"
           className="bg-gray-900 text-white px-6 py-3 rounded-md hover:bg-gray-800"
         >
           Ir para o Checkout
