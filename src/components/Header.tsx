@@ -45,7 +45,7 @@ export function Header() {
 
             <CategoryMenu />
 
-            <Link to="/edição" className="text-gray-600 hover:text-gray-900">
+            <Link to="/edition" className="text-gray-600 hover:text-gray-900">
               Edição
             </Link>
 
