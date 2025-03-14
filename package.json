@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kaikypires.github.io/Loja-de-Moveis",
+  "homepage": "https://kaikypires.github.io/loja-de-moveis",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
